@@ -49,8 +49,3 @@ The dataset used here is MDB 5000 Movie Dataset which includes data about differ
 ## Contributing
 
 Feel free to fork this repository and submit pull requests with improvements.
-
-
-This project is open-source and available under the MIT License.
-
----
