@@ -37,7 +37,7 @@ To run this project, you need the following:
 
 ## Dataset
 
-The dataset was not included in this repository due to its size. If you wish to use the notebook, please download the dataset separately and update the file path accordingly: [dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
+The dataset used here is MDB 5000 Movie Dataset which includes data about different moveies with their names, budget, rating, and other features. The dataset was not included in this repository due to its size. If you wish to use the notebook, please download the dataset separately and update the file path accordingly: [dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 ## Features
 
